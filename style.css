@@ -1,16 +1,16 @@
 body {
-    background-color: #4DD1B9;
-    font-family: Arial, sans-serif;
-    color: #171790;
+    background-color: #4DD1B9; /* warna background */
+    font-family: Arial, sans-serif; /* jenis font */
+    color: #171790; /* warna teks */
 }
 
 .kartu-profil {
     width: 300px;
-    margin: 50px auto;
+    margin: 50px auto; /* Jarak atas/baawah, auto menengahkan kanan/kiri :*/
     padding: 20px;
     background-color: white;
-    border-radius: 15px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 15px; /* Membuat sudut menjadi melengkung* */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* efek bayangan */
     text-align: center;
 }
 
