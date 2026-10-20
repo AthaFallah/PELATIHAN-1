@@ -15,8 +15,8 @@ body {
 
 
 .kartu-profil img {
-    width: 150px
-    border-radius: 50%  
+    width: 150px 
+    border-radius: 50%  /*membuat otomatis menjadi linkaran sempurna */
 }
 .kartu-profil {
   width: 300px;
