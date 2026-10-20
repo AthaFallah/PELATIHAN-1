@@ -1,34 +1,29 @@
 body {
-  backgroun-color: #FFFFE0; /* warna kuning cerah */
-  font-family: Arial, sans-serif; /*jenis huruf yang bersih dan mudah dibaca*/
-  color: #191970; /* warna teks utama (Biru Gelap) */
+    background-color: #4DD1B9; /* Warna kuning cerah */
+    font-family: Arial, sans-serif; /* Jenis huruf yang bersih dan mudah di baca */
+    color: #121212; /* Warna teks utama (Biru Gelap) */
 }
 
-kartu-profil {
-  width: 300px
-  margin: 50px auto; /*50px jarak atas/bawah, auto menengahkan kiri/kanan */
-  padding: 20px; 
-  background-color: white;
-  border-radius: 15px; /* membuat sudut menjadi melengkung */
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* efek bayangan */
+.kartu-profil {
+    width: 300px;
+    margin: 50px auto; /* Jarak atas/baawah, auto menengahkan kanan/kiri :*/
+    padding: 20px;
+    background-color: white;
+    border-radius: 15px; /*Membuat sudut menjadi melengkung*/
+    box-shadow: 0 4px 8px rgba(0,0,0,0,1); /* efek bayangan */
 }
-|
 
-kartu-profil img {
-  width: 150px
-  border-radius: 50% /* Trik untu membuat gambar menjadi lingkaran sempurna */
+
+.kartu-profil img {
+    width: 150px
+    border-radius: 50%  
 }
 .kartu-profil {
-  /*... (kode dari slide sebelumnya)...*/
-  text-align: center; /* menengahkan semua teks di dalam kartu */
+  width: 300px;
+    margin: 50px auto; /* Jarak atas/baawah, auto menengahkan kanan/kiri :*/
+    padding: 20px;
+    background-color: white;
+    border-radius: 15px; /*Membuat sudut menjadi melengkung*/
+    box-shadow: 0 4px 8px rgba(0,0,0,0,1); /* efek bayangan */
+  text-align: center;
 }
-
-
-
-
-
-
-
-
-
-
